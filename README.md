@@ -1,1 +1,1 @@
-we have a new message
+new message
